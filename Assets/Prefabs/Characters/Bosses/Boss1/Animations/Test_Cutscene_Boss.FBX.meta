@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 6c0a70261cb0c3b4fb6b994e2310ce76
+timeCreated: 1522257643
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Body
+    100002: BossHelper
+    100004: Marine001Head
+    100006: Marine001LArmCollarbone
+    100008: Marine001LArmDigit01
+    100010: Marine001LArmDigit02
+    100012: Marine001LArmDigit03
+    100014: Marine001LArmDigit21
+    100016: Marine001LArmDigit22
+    100018: Marine001LArmDigit41
+    100020: Marine001LArmDigit42
+    100022: Marine001LArmForearm
+    100024: Marine001LArmPalm
+    100026: Marine001LArmUpperarm
+    100028: Marine001Neck1
+    100030: Marine001Neck2
+    100032: Marine001Pelvis
+    100034: Marine001RArmCollarbone
+    100036: Marine001RArmDigit01
+    100038: Marine001RArmDigit02
+    100040: Marine001RArmDigit03
+    100042: Marine001RArmDigit21
+    100044: Marine001RArmDigit22
+    100046: Marine001RArmDigit41
+    100048: Marine001RArmDigit42
+    100050: Marine001RArmForearm
+    100052: Marine001RArmPalm
+    100054: Marine001RArmUpperarm
+    100056: Marine001Ribcage
+    100058: Marine001Spine1
+    100060: Marine001Spine2
+    100062: Marine001Spine3
+    100064: //RootNode
+    400000: Body
+    400002: BossHelper
+    400004: Marine001Head
+    400006: Marine001LArmCollarbone
+    400008: Marine001LArmDigit01
+    400010: Marine001LArmDigit02
+    400012: Marine001LArmDigit03
+    400014: Marine001LArmDigit21
+    400016: Marine001LArmDigit22
+    400018: Marine001LArmDigit41
+    400020: Marine001LArmDigit42
+    400022: Marine001LArmForearm
+    400024: Marine001LArmPalm
+    400026: Marine001LArmUpperarm
+    400028: Marine001Neck1
+    400030: Marine001Neck2
+    400032: Marine001Pelvis
+    400034: Marine001RArmCollarbone
+    400036: Marine001RArmDigit01
+    400038: Marine001RArmDigit02
+    400040: Marine001RArmDigit03
+    400042: Marine001RArmDigit21
+    400044: Marine001RArmDigit22
+    400046: Marine001RArmDigit41
+    400048: Marine001RArmDigit42
+    400050: Marine001RArmForearm
+    400052: Marine001RArmPalm
+    400054: Marine001RArmUpperarm
+    400056: Marine001Ribcage
+    400058: Marine001Spine1
+    400060: Marine001Spine2
+    400062: Marine001Spine3
+    400064: //RootNode
+    4300000: Body
+    7400000: Cutscene_Boss
+    9500000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

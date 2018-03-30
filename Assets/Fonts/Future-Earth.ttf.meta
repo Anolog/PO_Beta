@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6b5dfe54954f76a47ae30112af393e47
+timeCreated: 1517404697
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Future Earth
+  fontNames:
+  - Future Earth
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

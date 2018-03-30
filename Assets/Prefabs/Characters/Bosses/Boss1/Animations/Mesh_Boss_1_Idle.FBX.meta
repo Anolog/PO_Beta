@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 76b47917756fed245b5bfa9d51d7427f
+timeCreated: 1520704398
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Marine001
+    100002: Marine001Head
+    100004: Marine001LArmCollarbone
+    100006: Marine001LArmDigit01
+    100008: Marine001LArmDigit02
+    100010: Marine001LArmDigit03
+    100012: Marine001LArmDigit21
+    100014: Marine001LArmDigit22
+    100016: Marine001LArmDigit41
+    100018: Marine001LArmDigit42
+    100020: Marine001LArmForearm
+    100022: Marine001LArmPalm
+    100024: Marine001LArmUpperarm
+    100026: Marine001Neck1
+    100028: Marine001Neck2
+    100030: Marine001Pelvis
+    100032: Marine001RArmCollarbone
+    100034: Marine001RArmDigit01
+    100036: Marine001RArmDigit02
+    100038: Marine001RArmDigit03
+    100040: Marine001RArmDigit21
+    100042: Marine001RArmDigit22
+    100044: Marine001RArmDigit41
+    100046: Marine001RArmDigit42
+    100048: Marine001RArmForearm
+    100050: Marine001RArmPalm
+    100052: Marine001RArmUpperarm
+    100054: Marine001Ribcage
+    100056: Marine001Spine1
+    100058: Marine001Spine2
+    100060: Marine001Spine3
+    100062: //RootNode
+    400000: Marine001
+    400002: Marine001Head
+    400004: Marine001LArmCollarbone
+    400006: Marine001LArmDigit01
+    400008: Marine001LArmDigit02
+    400010: Marine001LArmDigit03
+    400012: Marine001LArmDigit21
+    400014: Marine001LArmDigit22
+    400016: Marine001LArmDigit41
+    400018: Marine001LArmDigit42
+    400020: Marine001LArmForearm
+    400022: Marine001LArmPalm
+    400024: Marine001LArmUpperarm
+    400026: Marine001Neck1
+    400028: Marine001Neck2
+    400030: Marine001Pelvis
+    400032: Marine001RArmCollarbone
+    400034: Marine001RArmDigit01
+    400036: Marine001RArmDigit02
+    400038: Marine001RArmDigit03
+    400040: Marine001RArmDigit21
+    400042: Marine001RArmDigit22
+    400044: Marine001RArmDigit41
+    400046: Marine001RArmDigit42
+    400048: Marine001RArmForearm
+    400050: Marine001RArmPalm
+    400052: Marine001RArmUpperarm
+    400054: Marine001Ribcage
+    400056: Marine001Spine1
+    400058: Marine001Spine2
+    400060: Marine001Spine3
+    400062: //RootNode
+    7400000: idle01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle01
+      takeName: idle01
+      firstFrame: 400
+      lastFrame: 474
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
