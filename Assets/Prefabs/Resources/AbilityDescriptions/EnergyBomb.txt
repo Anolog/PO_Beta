@@ -1,0 +1,1 @@
+Throw an energy bomb in the direction you are facing. The bomb will explode on impact and deal damage to nearby enemies. If an enemy is close to the center of the explosion they are dealt double damage! Can be used every 8 seconds.

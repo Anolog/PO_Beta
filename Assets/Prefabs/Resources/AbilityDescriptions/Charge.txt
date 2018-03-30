@@ -1,0 +1,1 @@
+Causes the user to rush forward, dealing slight damage and knocking back enemies that are hit. Can be used every 9 seconds.

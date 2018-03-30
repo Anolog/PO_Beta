@@ -1,0 +1,1 @@
+Fires a bolt of electricity in the direction you are aiming. If it hits an enemy it will deal damage, and then bounce to a nearby enemy hitting a maximum of 8 enemies. Can be used every 8 seconds.

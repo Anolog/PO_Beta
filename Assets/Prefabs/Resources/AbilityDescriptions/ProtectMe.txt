@@ -1,0 +1,1 @@
+Creates a protection bubble at your position. Players within the bubble negate 80% of all damage taken. Enemies within the bubble are slowed by 50% and have their attack speed reduced by 50%. The protection bubble will stay on the ground for 6 seconds. Can be used every 18 seconds.

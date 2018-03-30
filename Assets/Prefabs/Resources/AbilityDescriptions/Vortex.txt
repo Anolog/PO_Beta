@@ -1,0 +1,1 @@
+All nearby enemies are pulled in towards you. Can be used every 8 seconds.
