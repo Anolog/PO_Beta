@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: acf9738a23aa93242813f1cdf4ecd340
+timeCreated: 1515522472
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BossSpawn
+    100002: BotRailing
+    100004: EnemySpawn1
+    100006: EnemySpawn2
+    100008: EnemySpawn3
+    100010: EnemySpawn4
+    100012: Floor
+    100014: LeftRailing
+    100016: Main Platform
+    100018: //RootNode
+    100020: MiddleRailing1
+    100022: PlayerSpawn1
+    100024: PlayerSpawn2
+    100026: PlayerSpawn3
+    100028: PlayerSpawn4
+    100030: Railing Post01
+    100032: Railing Post02
+    100034: Railing Post03
+    100036: Railing Post032
+    100038: Railing Post033
+    100040: Railing Post037
+    100042: Railing Post038
+    100044: Railing Post039
+    100046: Railing Post04
+    100048: Railing Post040
+    100050: Railing Post041
+    100052: Railing Post042
+    100054: Railing Post043
+    100056: Railing Post044
+    100058: Railing Post045
+    100060: Railing Post046
+    100062: Railing Post047
+    100064: Railing Post048
+    100066: Railing Post049
+    100068: Railing Post050
+    100070: Railing Post051
+    100072: Railing Post052
+    100074: Railing Post053
+    100076: Railing Post054
+    100078: Railing Post055
+    100080: Railing Post056
+    100082: Railing Post057
+    100084: Railing Post058
+    100086: Railing Post059
+    100088: Railing Post06
+    100090: Railing Post060
+    100092: Railing Post061
+    100094: Railing Post062
+    100096: Railing Post063
+    100098: Railing Post064
+    100100: Railing Post065
+    100102: Railing Post066
+    100104: Railing Post067
+    100106: Railing Post068
+    100108: Railing Post069
+    100110: Railing Post07
+    100112: Railing Post070
+    100114: Railing Post071
+    100116: Railing Post072
+    100118: Railing Post073
+    100120: Railing Post074
+    100122: Railing Post075
+    100124: Railing Post076
+    100126: Railing Post077
+    100128: Railing Post078
+    100130: Railing Post079
+    100132: Railing Post08
+    100134: Railing Post080
+    100136: Railing Post081
+    100138: Railing Post082
+    100140: Railing Post083
+    100142: Railing Post084
+    100144: Railing Post085
+    100146: Railing Post086
+    100148: Railing Post087
+    100150: Railing Post088
+    100152: Railing Post089
+    100154: Railing Post09
+    100156: Railing Post090
+    100158: Railing Post091
+    100160: Railing Post092
+    100162: Railing Post093
+    100164: Railing Post094
+    100166: Railing Post095
+    100168: Railing Post096
+    100170: Railing Post097
+    100172: Railing Post098
+    100174: Railing Post099
+    100176: Railing Post100
+    100178: Railing Post101
+    100180: Railing Post102
+    100182: Railing Post103
+    100184: Railing Post104
+    100186: Railing Post105
+    100188: Railing Post106
+    100190: Railing Post107
+    100192: Railing Post108
+    100194: Railing Post109
+    100196: Railing Post110
+    100198: Railing Post111
+    100200: Railing Post112
+    100202: Railing Post113
+    100204: Railing Post114
+    100206: Railing Post115
+    100208: Railing Post116
+    100210: Railing Post117
+    100212: Railing Post118
+    100214: Railing Post119
+    100216: Railing Post120
+    100218: Railing Post121
+    100220: Railing Post122
+    100222: Railing Post123
+    100224: Railing Post124
+    100226: Railing Post125
+    100228: Railing Post126
+    100230: Railing Post127
+    100232: Railing Post128
+    100234: Railing Post129
+    100236: Railing Post130
+    100238: Railing Post131
+    100240: Railing Post132
+    100242: Railing Post133
+    100244: Railing Post134
+    100246: Railing Post135
+    100248: Railing Post136
+    100250: Railing Post137
+    100252: Railing Post138
+    100254: Railing Post139
+    100256: Railing Post140
+    100258: Railing Post141
+    100260: Railing Post142
+    100262: Railing Post144
+    100264: Railing Post145
+    100266: Railing Post146
+    100268: Railing Post147
+    100270: Railing Post148
+    100272: Railing Post149
+    100274: Railing Post150
+    100276: Railing Post151
+    100278: Railing Post152
+    100280: Railing Post153
+    100282: Railing Post154
+    100284: Railing Post155
+    100286: Railing Post156
+    100288: Railing Post157
+    100290: Railing Post158
+    100292: Railing Post159
+    100294: Railing Post160
+    100296: Railing Post161
+    100298: Railing Post162
+    100300: Railing Post163
+    100302: Railing Post164
+    100304: Railing Post165
+    100306: Railing Post166
+    100308: Railing Post167
+    100310: Railing Post168
+    100312: Railing Post169
+    100314: Railing Post170
+    100316: Railing Post171
+    100318: Railing Post172
+    100320: Railing Post173
+    100322: Railing Post174
+    100324: Railing Post175
+    100326: Railing Post176
+    100328: Railing Post177
+    100330: Railing Post178
+    100332: Railing Post179
+    100334: Railing Post180
+    100336: Railing Post181
+    100338: Railing Post182
+    100340: Railing Post183
+    100342: Railing Post184
+    100344: Railing Post185
+    100346: Railing Post186
+    100348: Railing Post187
+    100350: Railing Post188
+    100352: Railing Post189
+    100354: Railing Post190
+    100356: Spawn Door Blocker
+    100358: SpawnCollider
+    100360: TopRightRailing
+    400000: BossSpawn
+    400002: BotRailing
+    400004: EnemySpawn1
+    400006: EnemySpawn2
+    400008: EnemySpawn3
+    400010: EnemySpawn4
+    400012: Floor
+    400014: LeftRailing
+    400016: Main Platform
+    400018: //RootNode
+    400020: MiddleRailing1
+    400022: PlayerSpawn1
+    400024: PlayerSpawn2
+    400026: PlayerSpawn3
+    400028: PlayerSpawn4
+    400030: Railing Post01
+    400032: Railing Post02
+    400034: Railing Post03
+    400036: Railing Post032
+    400038: Railing Post033
+    400040: Railing Post037
+    400042: Railing Post038
+    400044: Railing Post039
+    400046: Railing Post04
+    400048: Railing Post040
+    400050: Railing Post041
+    400052: Railing Post042
+    400054: Railing Post043
+    400056: Railing Post044
+    400058: Railing Post045
+    400060: Railing Post046
+    400062: Railing Post047
+    400064: Railing Post048
+    400066: Railing Post049
+    400068: Railing Post050
+    400070: Railing Post051
+    400072: Railing Post052
+    400074: Railing Post053
+    400076: Railing Post054
+    400078: Railing Post055
+    400080: Railing Post056
+    400082: Railing Post057
+    400084: Railing Post058
+    400086: Railing Post059
+    400088: Railing Post06
+    400090: Railing Post060
+    400092: Railing Post061
+    400094: Railing Post062
+    400096: Railing Post063
+    400098: Railing Post064
+    400100: Railing Post065
+    400102: Railing Post066
+    400104: Railing Post067
+    400106: Railing Post068
+    400108: Railing Post069
+    400110: Railing Post07
+    400112: Railing Post070
+    400114: Railing Post071
+    400116: Railing Post072
+    400118: Railing Post073
+    400120: Railing Post074
+    400122: Railing Post075
+    400124: Railing Post076
+    400126: Railing Post077
+    400128: Railing Post078
+    400130: Railing Post079
+    400132: Railing Post08
+    400134: Railing Post080
+    400136: Railing Post081
+    400138: Railing Post082
+    400140: Railing Post083
+    400142: Railing Post084
+    400144: Railing Post085
+    400146: Railing Post086
+    400148: Railing Post087
+    400150: Railing Post088
+    400152: Railing Post089
+    400154: Railing Post09
+    400156: Railing Post090
+    400158: Railing Post091
+    400160: Railing Post092
+    400162: Railing Post093
+    400164: Railing Post094
+    400166: Railing Post095
+    400168: Railing Post096
+    400170: Railing Post097
+    400172: Railing Post098
+    400174: Railing Post099
+    400176: Railing Post100
+    400178: Railing Post101
+    400180: Railing Post102
+    400182: Railing Post103
+    400184: Railing Post104
+    400186: Railing Post105
+    400188: Railing Post106
+    400190: Railing Post107
+    400192: Railing Post108
+    400194: Railing Post109
+    400196: Railing Post110
+    400198: Railing Post111
+    400200: Railing Post112
+    400202: Railing Post113
+    400204: Railing Post114
+    400206: Railing Post115
+    400208: Railing Post116
+    400210: Railing Post117
+    400212: Railing Post118
+    400214: Railing Post119
+    400216: Railing Post120
+    400218: Railing Post121
+    400220: Railing Post122
+    400222: Railing Post123
+    400224: Railing Post124
+    400226: Railing Post125
+    400228: Railing Post126
+    400230: Railing Post127
+    400232: Railing Post128
+    400234: Railing Post129
+    400236: Railing Post130
+    400238: Railing Post131
+    400240: Railing Post132
+    400242: Railing Post133
+    400244: Railing Post134
+    400246: Railing Post135
+    400248: Railing Post136
+    400250: Railing Post137
+    400252: Railing Post138
+    400254: Railing Post139
+    400256: Railing Post140
+    400258: Railing Post141
+    400260: Railing Post142
+    400262: Railing Post144
+    400264: Railing Post145
+    400266: Railing Post146
+    400268: Railing Post147
+    400270: Railing Post148
+    400272: Railing Post149
+    400274: Railing Post150
+    400276: Railing Post151
+    400278: Railing Post152
+    400280: Railing Post153
+    400282: Railing Post154
+    400284: Railing Post155
+    400286: Railing Post156
+    400288: Railing Post157
+    400290: Railing Post158
+    400292: Railing Post159
+    400294: Railing Post160
+    400296: Railing Post161
+    400298: Railing Post162
+    400300: Railing Post163
+    400302: Railing Post164
+    400304: Railing Post165
+    400306: Railing Post166
+    400308: Railing Post167
+    400310: Railing Post168
+    400312: Railing Post169
+    400314: Railing Post170
+    400316: Railing Post171
+    400318: Railing Post172
+    400320: Railing Post173
+    400322: Railing Post174
+    400324: Railing Post175
+    400326: Railing Post176
+    400328: Railing Post177
+    400330: Railing Post178
+    400332: Railing Post179
+    400334: Railing Post180
+    400336: Railing Post181
+    400338: Railing Post182
+    400340: Railing Post183
+    400342: Railing Post184
+    400344: Railing Post185
+    400346: Railing Post186
+    400348: Railing Post187
+    400350: Railing Post188
+    400352: Railing Post189
+    400354: Railing Post190
+    400356: Spawn Door Blocker
+    400358: SpawnCollider
+    400360: TopRightRailing
+    2300000: BotRailing
+    2300002: Floor
+    2300004: LeftRailing
+    2300006: Main Platform
+    2300008: MiddleRailing1
+    2300010: Railing Post01
+    2300012: Railing Post02
+    2300014: Railing Post03
+    2300016: Railing Post032
+    2300018: Railing Post033
+    2300020: Railing Post037
+    2300022: Railing Post038
+    2300024: Railing Post039
+    2300026: Railing Post04
+    2300028: Railing Post040
+    2300030: Railing Post041
+    2300032: Railing Post042
+    2300034: Railing Post043
+    2300036: Railing Post044
+    2300038: Railing Post045
+    2300040: Railing Post046
+    2300042: Railing Post047
+    2300044: Railing Post048
+    2300046: Railing Post049
+    2300048: Railing Post050
+    2300050: Railing Post051
+    2300052: Railing Post052
+    2300054: Railing Post053
+    2300056: Railing Post054
+    2300058: Railing Post055
+    2300060: Railing Post056
+    2300062: Railing Post057
+    2300064: Railing Post058
+    2300066: Railing Post059
+    2300068: Railing Post06
+    2300070: Railing Post060
+    2300072: Railing Post061
+    2300074: Railing Post062
+    2300076: Railing Post063
+    2300078: Railing Post064
+    2300080: Railing Post065
+    2300082: Railing Post066
+    2300084: Railing Post067
+    2300086: Railing Post068
+    2300088: Railing Post069
+    2300090: Railing Post07
+    2300092: Railing Post070
+    2300094: Railing Post071
+    2300096: Railing Post072
+    2300098: Railing Post073
+    2300100: Railing Post074
+    2300102: Railing Post075
+    2300104: Railing Post076
+    2300106: Railing Post077
+    2300108: Railing Post078
+    2300110: Railing Post079
+    2300112: Railing Post08
+    2300114: Railing Post080
+    2300116: Railing Post081
+    2300118: Railing Post082
+    2300120: Railing Post083
+    2300122: Railing Post084
+    2300124: Railing Post085
+    2300126: Railing Post086
+    2300128: Railing Post087
+    2300130: Railing Post088
+    2300132: Railing Post089
+    2300134: Railing Post09
+    2300136: Railing Post090
+    2300138: Railing Post091
+    2300140: Railing Post092
+    2300142: Railing Post093
+    2300144: Railing Post094
+    2300146: Railing Post095
+    2300148: Railing Post096
+    2300150: Railing Post097
+    2300152: Railing Post098
+    2300154: Railing Post099
+    2300156: Railing Post100
+    2300158: Railing Post101
+    2300160: Railing Post102
+    2300162: Railing Post103
+    2300164: Railing Post104
+    2300166: Railing Post105
+    2300168: Railing Post106
+    2300170: Railing Post107
+    2300172: Railing Post108
+    2300174: Railing Post109
+    2300176: Railing Post110
+    2300178: Railing Post111
+    2300180: Railing Post112
+    2300182: Railing Post113
+    2300184: Railing Post114
+    2300186: Railing Post115
+    2300188: Railing Post116
+    2300190: Railing Post117
+    2300192: Railing Post118
+    2300194: Railing Post119
+    2300196: Railing Post120
+    2300198: Railing Post121
+    2300200: Railing Post122
+    2300202: Railing Post123
+    2300204: Railing Post124
+    2300206: Railing Post125
+    2300208: Railing Post126
+    2300210: Railing Post127
+    2300212: Railing Post128
+    2300214: Railing Post129
+    2300216: Railing Post130
+    2300218: Railing Post131
+    2300220: Railing Post132
+    2300222: Railing Post133
+    2300224: Railing Post134
+    2300226: Railing Post135
+    2300228: Railing Post136
+    2300230: Railing Post137
+    2300232: Railing Post138
+    2300234: Railing Post139
+    2300236: Railing Post140
+    2300238: Railing Post141
+    2300240: Railing Post142
+    2300242: Railing Post144
+    2300244: Railing Post145
+    2300246: Railing Post146
+    2300248: Railing Post147
+    2300250: Railing Post148
+    2300252: Railing Post149
+    2300254: Railing Post150
+    2300256: Railing Post151
+    2300258: Railing Post152
+    2300260: Railing Post153
+    2300262: Railing Post154
+    2300264: Railing Post155
+    2300266: Railing Post156
+    2300268: Railing Post157
+    2300270: Railing Post158
+    2300272: Railing Post159
+    2300274: Railing Post160
+    2300276: Railing Post161
+    2300278: Railing Post162
+    2300280: Railing Post163
+    2300282: Railing Post164
+    2300284: Railing Post165
+    2300286: Railing Post166
+    2300288: Railing Post167
+    2300290: Railing Post168
+    2300292: Railing Post169
+    2300294: Railing Post170
+    2300296: Railing Post171
+    2300298: Railing Post172
+    2300300: Railing Post173
+    2300302: Railing Post174
+    2300304: Railing Post175
+    2300306: Railing Post176
+    2300308: Railing Post177
+    2300310: Railing Post178
+    2300312: Railing Post179
+    2300314: Railing Post180
+    2300316: Railing Post181
+    2300318: Railing Post182
+    2300320: Railing Post183
+    2300322: Railing Post184
+    2300324: Railing Post185
+    2300326: Railing Post186
+    2300328: Railing Post187
+    2300330: Railing Post188
+    2300332: Railing Post189
+    2300334: Railing Post190
+    2300336: Spawn Door Blocker
+    2300338: SpawnCollider
+    2300340: TopRightRailing
+    3300000: BotRailing
+    3300002: Floor
+    3300004: LeftRailing
+    3300006: Main Platform
+    3300008: MiddleRailing1
+    3300010: Railing Post01
+    3300012: Railing Post02
+    3300014: Railing Post03
+    3300016: Railing Post032
+    3300018: Railing Post033
+    3300020: Railing Post037
+    3300022: Railing Post038
+    3300024: Railing Post039
+    3300026: Railing Post04
+    3300028: Railing Post040
+    3300030: Railing Post041
+    3300032: Railing Post042
+    3300034: Railing Post043
+    3300036: Railing Post044
+    3300038: Railing Post045
+    3300040: Railing Post046
+    3300042: Railing Post047
+    3300044: Railing Post048
+    3300046: Railing Post049
+    3300048: Railing Post050
+    3300050: Railing Post051
+    3300052: Railing Post052
+    3300054: Railing Post053
+    3300056: Railing Post054
+    3300058: Railing Post055
+    3300060: Railing Post056
+    3300062: Railing Post057
+    3300064: Railing Post058
+    3300066: Railing Post059
+    3300068: Railing Post06
+    3300070: Railing Post060
+    3300072: Railing Post061
+    3300074: Railing Post062
+    3300076: Railing Post063
+    3300078: Railing Post064
+    3300080: Railing Post065
+    3300082: Railing Post066
+    3300084: Railing Post067
+    3300086: Railing Post068
+    3300088: Railing Post069
+    3300090: Railing Post07
+    3300092: Railing Post070
+    3300094: Railing Post071
+    3300096: Railing Post072
+    3300098: Railing Post073
+    3300100: Railing Post074
+    3300102: Railing Post075
+    3300104: Railing Post076
+    3300106: Railing Post077
+    3300108: Railing Post078
+    3300110: Railing Post079
+    3300112: Railing Post08
+    3300114: Railing Post080
+    3300116: Railing Post081
+    3300118: Railing Post082
+    3300120: Railing Post083
+    3300122: Railing Post084
+    3300124: Railing Post085
+    3300126: Railing Post086
+    3300128: Railing Post087
+    3300130: Railing Post088
+    3300132: Railing Post089
+    3300134: Railing Post09
+    3300136: Railing Post090
+    3300138: Railing Post091
+    3300140: Railing Post092
+    3300142: Railing Post093
+    3300144: Railing Post094
+    3300146: Railing Post095
+    3300148: Railing Post096
+    3300150: Railing Post097
+    3300152: Railing Post098
+    3300154: Railing Post099
+    3300156: Railing Post100
+    3300158: Railing Post101
+    3300160: Railing Post102
+    3300162: Railing Post103
+    3300164: Railing Post104
+    3300166: Railing Post105
+    3300168: Railing Post106
+    3300170: Railing Post107
+    3300172: Railing Post108
+    3300174: Railing Post109
+    3300176: Railing Post110
+    3300178: Railing Post111
+    3300180: Railing Post112
+    3300182: Railing Post113
+    3300184: Railing Post114
+    3300186: Railing Post115
+    3300188: Railing Post116
+    3300190: Railing Post117
+    3300192: Railing Post118
+    3300194: Railing Post119
+    3300196: Railing Post120
+    3300198: Railing Post121
+    3300200: Railing Post122
+    3300202: Railing Post123
+    3300204: Railing Post124
+    3300206: Railing Post125
+    3300208: Railing Post126
+    3300210: Railing Post127
+    3300212: Railing Post128
+    3300214: Railing Post129
+    3300216: Railing Post130
+    3300218: Railing Post131
+    3300220: Railing Post132
+    3300222: Railing Post133
+    3300224: Railing Post134
+    3300226: Railing Post135
+    3300228: Railing Post136
+    3300230: Railing Post137
+    3300232: Railing Post138
+    3300234: Railing Post139
+    3300236: Railing Post140
+    3300238: Railing Post141
+    3300240: Railing Post142
+    3300242: Railing Post144
+    3300244: Railing Post145
+    3300246: Railing Post146
+    3300248: Railing Post147
+    3300250: Railing Post148
+    3300252: Railing Post149
+    3300254: Railing Post150
+    3300256: Railing Post151
+    3300258: Railing Post152
+    3300260: Railing Post153
+    3300262: Railing Post154
+    3300264: Railing Post155
+    3300266: Railing Post156
+    3300268: Railing Post157
+    3300270: Railing Post158
+    3300272: Railing Post159
+    3300274: Railing Post160
+    3300276: Railing Post161
+    3300278: Railing Post162
+    3300280: Railing Post163
+    3300282: Railing Post164
+    3300284: Railing Post165
+    3300286: Railing Post166
+    3300288: Railing Post167
+    3300290: Railing Post168
+    3300292: Railing Post169
+    3300294: Railing Post170
+    3300296: Railing Post171
+    3300298: Railing Post172
+    3300300: Railing Post173
+    3300302: Railing Post174
+    3300304: Railing Post175
+    3300306: Railing Post176
+    3300308: Railing Post177
+    3300310: Railing Post178
+    3300312: Railing Post179
+    3300314: Railing Post180
+    3300316: Railing Post181
+    3300318: Railing Post182
+    3300320: Railing Post183
+    3300322: Railing Post184
+    3300324: Railing Post185
+    3300326: Railing Post186
+    3300328: Railing Post187
+    3300330: Railing Post188
+    3300332: Railing Post189
+    3300334: Railing Post190
+    3300336: Spawn Door Blocker
+    3300338: SpawnCollider
+    3300340: TopRightRailing
+    4300000: Main Platform
+    4300002: Floor
+    4300004: Spawn Door Blocker
+    4300006: SpawnCollider
+    4300008: BotRailing
+    4300010: Railing Post188
+    4300012: Railing Post187
+    4300014: Railing Post186
+    4300016: Railing Post185
+    4300018: Railing Post184
+    4300020: Railing Post183
+    4300022: Railing Post182
+    4300024: Railing Post166
+    4300026: Railing Post165
+    4300028: Railing Post164
+    4300030: Railing Post163
+    4300032: Railing Post162
+    4300034: Railing Post161
+    4300036: Railing Post160
+    4300038: Railing Post159
+    4300040: Railing Post158
+    4300042: Railing Post157
+    4300044: Railing Post156
+    4300046: Railing Post155
+    4300048: Railing Post154
+    4300050: Railing Post190
+    4300052: Railing Post152
+    4300054: Railing Post151
+    4300056: Railing Post150
+    4300058: Railing Post149
+    4300060: Railing Post148
+    4300062: Railing Post147
+    4300064: Railing Post146
+    4300066: Railing Post145
+    4300068: Railing Post144
+    4300070: Railing Post142
+    4300072: Railing Post121
+    4300074: Railing Post120
+    4300076: Railing Post119
+    4300078: Railing Post118
+    4300080: Railing Post117
+    4300082: Railing Post116
+    4300084: Railing Post115
+    4300086: Railing Post114
+    4300088: Railing Post113
+    4300090: Railing Post112
+    4300092: Railing Post189
+    4300094: Railing Post153
+    4300096: Railing Post050
+    4300098: Railing Post180
+    4300100: Railing Post179
+    4300102: Railing Post01
+    4300104: Railing Post02
+    4300106: Railing Post03
+    4300108: Railing Post04
+    4300110: Railing Post06
+    4300112: Railing Post07
+    4300114: Railing Post08
+    4300116: Railing Post09
+    4300118: Railing Post032
+    4300120: Railing Post033
+    4300122: Railing Post037
+    4300124: Railing Post038
+    4300126: Railing Post039
+    4300128: Railing Post040
+    4300130: Railing Post041
+    4300132: Railing Post042
+    4300134: Railing Post043
+    4300136: Railing Post044
+    4300138: Railing Post045
+    4300140: Railing Post046
+    4300142: Railing Post047
+    4300144: Railing Post048
+    4300146: Railing Post049
+    4300148: Railing Post181
+    4300150: Railing Post051
+    4300152: Railing Post052
+    4300154: Railing Post053
+    4300156: Railing Post054
+    4300158: Railing Post055
+    4300160: Railing Post056
+    4300162: Railing Post057
+    4300164: Railing Post058
+    4300166: Railing Post059
+    4300168: Railing Post060
+    4300170: LeftRailing
+    4300172: Railing Post167
+    4300174: Railing Post168
+    4300176: Railing Post169
+    4300178: Railing Post170
+    4300180: Railing Post171
+    4300182: Railing Post172
+    4300184: Railing Post173
+    4300186: Railing Post174
+    4300188: Railing Post175
+    4300190: Railing Post176
+    4300192: Railing Post177
+    4300194: Railing Post178
+    4300196: Railing Post137
+    4300198: Railing Post136
+    4300200: Railing Post135
+    4300202: Railing Post134
+    4300204: Railing Post133
+    4300206: Railing Post132
+    4300208: Railing Post131
+    4300210: Railing Post130
+    4300212: Railing Post129
+    4300214: Railing Post128
+    4300216: Railing Post127
+    4300218: Railing Post076
+    4300220: Railing Post138
+    4300222: Railing Post074
+    4300224: Railing Post073
+    4300226: Railing Post072
+    4300228: Railing Post071
+    4300230: Railing Post070
+    4300232: Railing Post069
+    4300234: Railing Post068
+    4300236: Railing Post067
+    4300238: Railing Post064
+    4300240: Railing Post063
+    4300242: Railing Post062
+    4300244: Railing Post061
+    4300246: MiddleRailing1
+    4300248: Railing Post075
+    4300250: TopRightRailing
+    4300252: Railing Post141
+    4300254: Railing Post140
+    4300256: Railing Post139
+    4300258: Railing Post126
+    4300260: Railing Post125
+    4300262: Railing Post124
+    4300264: Railing Post123
+    4300266: Railing Post122
+    4300268: Railing Post111
+    4300270: Railing Post110
+    4300272: Railing Post109
+    4300274: Railing Post108
+    4300276: Railing Post107
+    4300278: Railing Post106
+    4300280: Railing Post105
+    4300282: Railing Post104
+    4300284: Railing Post103
+    4300286: Railing Post102
+    4300288: Railing Post101
+    4300290: Railing Post100
+    4300292: Railing Post099
+    4300294: Railing Post098
+    4300296: Railing Post097
+    4300298: Railing Post096
+    4300300: Railing Post095
+    4300302: Railing Post094
+    4300304: Railing Post093
+    4300306: Railing Post092
+    4300308: Railing Post091
+    4300310: Railing Post090
+    4300312: Railing Post089
+    4300314: Railing Post088
+    4300316: Railing Post087
+    4300318: Railing Post086
+    4300320: Railing Post085
+    4300322: Railing Post084
+    4300324: Railing Post083
+    4300326: Railing Post082
+    4300328: Railing Post081
+    4300330: Railing Post080
+    4300332: Railing Post079
+    4300334: Railing Post078
+    4300336: Railing Post077
+    4300338: Railing Post066
+    4300340: Railing Post065
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
