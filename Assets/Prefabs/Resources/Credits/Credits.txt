@@ -1,0 +1,287 @@
+Created by Tarnished Faucet
+
+Project Manager..............................Aaron Appel
+
+Lead Programmer..............................Ryan Hatcher
+Graphics Programmer..........................Ryan Hatcher
+Gameplay Programmer..........................Griffyn Wilkinson
+Generalist Programmer........................Stephen Lawrence
+
+Lead Designer................................Stephen Lawrence
+Designer.....................................Griffyn Wilkinson
+
+Lead Artist..................................Mark Jackson
+3D Artist/Animator...........................Mark Jackson
+2D/3D Artist.................................Dakota Abrames
+2D/3D Artist.................................Brandon Bell-Paquette
+
+"Future Earth" Yautja (fontstruct.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Ossuary 5 - Rest" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Clash Defiant Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Corruption Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Black Vortex Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Death of Kings" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Error Bleep 4" original_sound (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"error 2" lluiset7 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Error" Autistic Lucario (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Computer Error" ecfike (freesound.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Jumps on the floor" Caitlin_100 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"PiedraDesmoronandose" Trancox (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Rocks" adamgryu (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Rumbling Rocky sound" Opsaaaaa (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"g_whiff_3" Pinball_Wiz (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Energy Short Sword 3" ejfortin (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"metal sound, fighting game" evilus (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Fairy_sound" AdriMB86 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Drone_02" James Geetar (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"16_ca_pads" lerwickdj (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"JacobsLadderSingle2" Halleck (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Sci Fi Generator or Motor or Forcefield Loop" Euphrosynn (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"glitch_omnipotence" MrLindstrom (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Dry thunder2" juskiddink (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"thunder" netaj (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Regular Arrow Shot" brendan89 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Cracking/Crunching,A" InspectorJ (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Chewing,Carrot,A" InspectorJ (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Bone Crunch/Crack 3 (Mixed)" EFlexTheSoundDesigner (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Moving a boulder" BW_Clowes (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Shield" MortisBlack (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Swoosh test C" cabled_mess (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Metalliputket, helähdys / Small metal tubes, chimes, a short tinkle, like fairy dust, magic, sparkle" YleArkisto (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"shift04" newagesoup (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Short Explosion" wubitog (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"glass-explosion_01" C_Rogers (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"bad explosion" deleted_used_364925 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Pulse Rifle" Andromadax24 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"hvyelec" inferno (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Flame ignition" hykenfreak (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"fireball3" Timbre (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"g_whiff_2" Pinball_Wiz (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Throwing/Whip Effect" denao270 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Thump_001" Brokenphono (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Explosion(Pas)" studiomandragore (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Fantasy SFX 005.wav" tec studios (freesound.org)
+Licensed under Public Domain
+https://creativecommons.org/publicdomain/zero/1.0/
+
+"swing.mp3" orangesheepdo (freesound.org)
+Licensed under Public Domain
+https://creativecommons.org/publicdomain/zero/1.0/
+
+"Bow_release.wav" PorkMuncher (freesound.org)
+Licensed under Public Domain
+https://creativecommons.org/publicdomain/zero/1.0/
+
+"jumping_1.wav" ShaneF91 (freesound.org)
+Licensed under Public Domain
+https://creativecommons.org/publicdomain/zero/1.0/
+
+"player_jump.wav" laurenmg95 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"Compressed Air" ThompsonMan (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"PowerUp" Kianda (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"SpaceEngine Start" LittleRobotSoundFactory (freesound.org)
+https://creativecommons.org/licenses/by/3.0/
+
+"Pickup Gold 03" LittleRobotSoundFactory (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"Rocks" adamgryu (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"48688__sea-fury__monster-4" Sea Fury (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"glitchedtones_Machine Charge" Zapsplat (zapsplat.com)
+https://www.zapsplat.com/sound-effect-packs/sci-fi-elements/
+https://www.zapsplat.com/license-type/standard-license/
+
+"240852__airborne80__wounded-alien" Airborne80 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"169994__peepholecircus__power-down" peepholecircus (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"344611__waveplay__short-lazre-burst" waveplay (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"375988__morganpurkis__gun-thing" morganpurkis (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"411460__inspectorj__power-up-bright-a" InspectorJ (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"CritterSFX - Short_2" "CritterSFX - Short_3" JP Neufeld (assetstore.unity.com)
+https://assetstore.unity.com/packages/audio/sound-fx/creatures/lil-critter-sfx-5016
+Unity Store EULA: https://unity3d.com/legal/as_terms
+
+"411642__inspectorj__pop-high-a-h1" InspectorJ (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"76061__digifishmusic__dramatic5" digifishmusic (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+"240745__majoranman__choir-one-shot" majoranman (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/publicdomain/zero/1.0/
+
+"199823__connersaw64__egg-shaker-1-throw" Connersaw64 (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/publicdomain/zero/1.0/
+
+"254942__deatlev__beam" Deatlev (freesound.org)
+Licensed under Creative Commons: By Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
