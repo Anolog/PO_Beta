@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MeleeEnemy
+  - RangedEnemy
+  - PlayerSpawn
+  - EnemySpawn
+  - Enemy
+  - Wall
+  - Platform
+  - DownedPlayer
+  - EnergyBomb
+  - EnergyMine
+  - Boss
+  - GameManager
+  - BossSpawn
+  - Hitbox
+  - Decoration
+  - Post Game
+  - BossTeleportLocation
+  - Blocker
+  - SpawnCollider
+  - WanderPoint
+  - BrightnessObject
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FadingGeometry
+  - NonFadingGeometry
+  - AlivePlayer
+  - DownedPlayer
+  - Enemy
+  - Cull
+  - WallBlocker
+  - Projectile
+  - GroundShock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Layer
+    uniqueID: 940914163
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
