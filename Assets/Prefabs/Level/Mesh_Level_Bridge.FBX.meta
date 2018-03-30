@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: b3900fcdced67f449b3ec701714c1637
+timeCreated: 1520857589
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BossSpawn
+    100002: EnemySpawn1
+    100004: EnemySpawn2
+    100006: EnemySpawn3
+    100008: EnemySpawn4
+    100010: Mesh_CenterPlatform
+    100012: Mesh_CornerPlatform
+    100014: Mesh_Floor
+    100016: //RootNode
+    100018: Mesh_Platform
+    100020: Mesh_PlatformPillar
+    100022: Mesh_PlatformPillar001
+    100024: Mesh_PlatformSupport
+    100026: Mesh_PlatformSupport001
+    100028: Mesh_PlatformSupport002
+    100030: Mesh_PlatformSupport003
+    100032: Mesh_Railing1
+    100034: Mesh_Railing2
+    100036: Mesh_Railing3
+    100038: Mesh_Railing4
+    100040: Mesh_Railing5
+    100042: Mesh_Roof
+    100044: Mesh_RoofPanel
+    100046: Mesh_TerrainPath
+    100048: Mesh_Window
+    100050: PlayerSpawn1
+    100052: PlayerSpawn2
+    100054: PlayerSpawn3
+    100056: PlayerSpawn4
+    400000: BossSpawn
+    400002: EnemySpawn1
+    400004: EnemySpawn2
+    400006: EnemySpawn3
+    400008: EnemySpawn4
+    400010: Mesh_CenterPlatform
+    400012: Mesh_CornerPlatform
+    400014: Mesh_Floor
+    400016: //RootNode
+    400018: Mesh_Platform
+    400020: Mesh_PlatformPillar
+    400022: Mesh_PlatformPillar001
+    400024: Mesh_PlatformSupport
+    400026: Mesh_PlatformSupport001
+    400028: Mesh_PlatformSupport002
+    400030: Mesh_PlatformSupport003
+    400032: Mesh_Railing1
+    400034: Mesh_Railing2
+    400036: Mesh_Railing3
+    400038: Mesh_Railing4
+    400040: Mesh_Railing5
+    400042: Mesh_Roof
+    400044: Mesh_RoofPanel
+    400046: Mesh_TerrainPath
+    400048: Mesh_Window
+    400050: PlayerSpawn1
+    400052: PlayerSpawn2
+    400054: PlayerSpawn3
+    400056: PlayerSpawn4
+    2300000: Mesh_CenterPlatform
+    2300002: Mesh_CornerPlatform
+    2300004: Mesh_Floor
+    2300006: Mesh_Platform
+    2300008: Mesh_PlatformPillar
+    2300010: Mesh_PlatformPillar001
+    2300012: Mesh_PlatformSupport
+    2300014: Mesh_PlatformSupport001
+    2300016: Mesh_PlatformSupport002
+    2300018: Mesh_PlatformSupport003
+    2300020: Mesh_Railing1
+    2300022: Mesh_Railing2
+    2300024: Mesh_Railing3
+    2300026: Mesh_Railing4
+    2300028: Mesh_Railing5
+    2300030: Mesh_Roof
+    2300032: Mesh_RoofPanel
+    2300034: Mesh_TerrainPath
+    2300036: Mesh_Window
+    3300000: Mesh_CenterPlatform
+    3300002: Mesh_CornerPlatform
+    3300004: Mesh_Floor
+    3300006: Mesh_Platform
+    3300008: Mesh_PlatformPillar
+    3300010: Mesh_PlatformPillar001
+    3300012: Mesh_PlatformSupport
+    3300014: Mesh_PlatformSupport001
+    3300016: Mesh_PlatformSupport002
+    3300018: Mesh_PlatformSupport003
+    3300020: Mesh_Railing1
+    3300022: Mesh_Railing2
+    3300024: Mesh_Railing3
+    3300026: Mesh_Railing4
+    3300028: Mesh_Railing5
+    3300030: Mesh_Roof
+    3300032: Mesh_RoofPanel
+    3300034: Mesh_TerrainPath
+    3300036: Mesh_Window
+    4300000: Mesh_Roof
+    4300002: Mesh_RoofPanel
+    4300004: Mesh_Railing5
+    4300006: Mesh_Railing4
+    4300008: Mesh_Railing3
+    4300010: Mesh_Railing2
+    4300012: Mesh_Railing1
+    4300014: Mesh_PlatformPillar001
+    4300016: Mesh_Window
+    4300018: Mesh_PlatformPillar
+    4300020: Mesh_PlatformSupport003
+    4300022: Mesh_PlatformSupport002
+    4300024: Mesh_PlatformSupport001
+    4300026: Mesh_PlatformSupport
+    4300028: Mesh_TerrainPath
+    4300030: Mesh_CornerPlatform
+    4300032: Mesh_CenterPlatform
+    4300034: Mesh_Floor
+    4300036: Mesh_Platform
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

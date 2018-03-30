@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 2d6cc1b55512aa34082915fc6ffc12dd
+timeCreated: 1521827673
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh_Pipe001
+    100004: Mesh_Pipe002
+    100006: Mesh_Pipe003
+    100008: Mesh_Pipe004
+    100010: Mesh_Pipe005
+    100012: Mesh_Pipe006
+    100014: Mesh_Pipe007
+    100016: Mesh_Pipe008
+    100018: Mesh_Pipe009
+    100020: Mesh_Pipe010
+    100022: Mesh_Pipe011
+    100024: Mesh_Pipe013
+    100026: Mesh_Pipe014
+    100028: Mesh_Pipe015
+    100030: Mesh_Pipe016
+    100032: Mesh_Pipe017
+    100034: Mesh_Pipe018
+    100036: Mesh_Pipe019
+    100038: Mesh_Pipe020
+    100040: Mesh_Pipe021
+    100042: Mesh_Pipe022
+    100044: Mesh_Pipe023
+    100046: Mesh_RoofSupport
+    100048: Mesh_RoofSupport001
+    100050: Mesh_RoofSupport002
+    100052: Mesh_RoofSupport003
+    100054: Mesh_RoofSupport004
+    100056: Mesh_RoofSupport005
+    100058: Mesh_RoofSupport006
+    100060: Mesh_RoofSupport007
+    400000: //RootNode
+    400002: Mesh_Pipe001
+    400004: Mesh_Pipe002
+    400006: Mesh_Pipe003
+    400008: Mesh_Pipe004
+    400010: Mesh_Pipe005
+    400012: Mesh_Pipe006
+    400014: Mesh_Pipe007
+    400016: Mesh_Pipe008
+    400018: Mesh_Pipe009
+    400020: Mesh_Pipe010
+    400022: Mesh_Pipe011
+    400024: Mesh_Pipe013
+    400026: Mesh_Pipe014
+    400028: Mesh_Pipe015
+    400030: Mesh_Pipe016
+    400032: Mesh_Pipe017
+    400034: Mesh_Pipe018
+    400036: Mesh_Pipe019
+    400038: Mesh_Pipe020
+    400040: Mesh_Pipe021
+    400042: Mesh_Pipe022
+    400044: Mesh_Pipe023
+    400046: Mesh_RoofSupport
+    400048: Mesh_RoofSupport001
+    400050: Mesh_RoofSupport002
+    400052: Mesh_RoofSupport003
+    400054: Mesh_RoofSupport004
+    400056: Mesh_RoofSupport005
+    400058: Mesh_RoofSupport006
+    400060: Mesh_RoofSupport007
+    2300000: Mesh_Pipe001
+    2300002: Mesh_Pipe002
+    2300004: Mesh_Pipe003
+    2300006: Mesh_Pipe004
+    2300008: Mesh_Pipe005
+    2300010: Mesh_Pipe006
+    2300012: Mesh_Pipe007
+    2300014: Mesh_Pipe008
+    2300016: Mesh_Pipe009
+    2300018: Mesh_Pipe010
+    2300020: Mesh_Pipe011
+    2300022: Mesh_Pipe013
+    2300024: Mesh_Pipe014
+    2300026: Mesh_Pipe015
+    2300028: Mesh_Pipe016
+    2300030: Mesh_Pipe017
+    2300032: Mesh_Pipe018
+    2300034: Mesh_Pipe019
+    2300036: Mesh_Pipe020
+    2300038: Mesh_Pipe021
+    2300040: Mesh_Pipe022
+    2300042: Mesh_Pipe023
+    2300044: Mesh_RoofSupport
+    2300046: Mesh_RoofSupport001
+    2300048: Mesh_RoofSupport002
+    2300050: Mesh_RoofSupport003
+    2300052: Mesh_RoofSupport004
+    2300054: Mesh_RoofSupport005
+    2300056: Mesh_RoofSupport006
+    2300058: Mesh_RoofSupport007
+    3300000: Mesh_Pipe001
+    3300002: Mesh_Pipe002
+    3300004: Mesh_Pipe003
+    3300006: Mesh_Pipe004
+    3300008: Mesh_Pipe005
+    3300010: Mesh_Pipe006
+    3300012: Mesh_Pipe007
+    3300014: Mesh_Pipe008
+    3300016: Mesh_Pipe009
+    3300018: Mesh_Pipe010
+    3300020: Mesh_Pipe011
+    3300022: Mesh_Pipe013
+    3300024: Mesh_Pipe014
+    3300026: Mesh_Pipe015
+    3300028: Mesh_Pipe016
+    3300030: Mesh_Pipe017
+    3300032: Mesh_Pipe018
+    3300034: Mesh_Pipe019
+    3300036: Mesh_Pipe020
+    3300038: Mesh_Pipe021
+    3300040: Mesh_Pipe022
+    3300042: Mesh_Pipe023
+    3300044: Mesh_RoofSupport
+    3300046: Mesh_RoofSupport001
+    3300048: Mesh_RoofSupport002
+    3300050: Mesh_RoofSupport003
+    3300052: Mesh_RoofSupport004
+    3300054: Mesh_RoofSupport005
+    3300056: Mesh_RoofSupport006
+    3300058: Mesh_RoofSupport007
+    4300000: Mesh_Pipe001
+    4300002: Mesh_Pipe002
+    4300004: Mesh_Pipe003
+    4300006: Mesh_Pipe004
+    4300008: Mesh_Pipe005
+    4300010: Mesh_Pipe006
+    4300012: Mesh_Pipe007
+    4300014: Mesh_Pipe008
+    4300016: Mesh_Pipe009
+    4300018: Mesh_Pipe010
+    4300020: Mesh_Pipe011
+    4300022: Mesh_Pipe013
+    4300024: Mesh_Pipe014
+    4300026: Mesh_Pipe015
+    4300028: Mesh_Pipe016
+    4300030: Mesh_Pipe017
+    4300032: Mesh_Pipe018
+    4300034: Mesh_Pipe019
+    4300036: Mesh_Pipe020
+    4300038: Mesh_Pipe021
+    4300040: Mesh_Pipe022
+    4300042: Mesh_Pipe023
+    4300044: Mesh_RoofSupport
+    4300046: Mesh_RoofSupport002
+    4300048: Mesh_RoofSupport001
+    4300050: Mesh_RoofSupport003
+    4300052: Mesh_RoofSupport004
+    4300054: Mesh_RoofSupport005
+    4300056: Mesh_RoofSupport006
+    4300058: Mesh_RoofSupport007
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
