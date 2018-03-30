@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 2254ba465766fc940a32521c7042c439
+timeCreated: 1518138039
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Marine001Head
+    100002: Marine001LArmCollarbone
+    100004: Marine001LArmDigit01
+    100006: Marine001LArmDigit02
+    100008: Marine001LArmDigit03
+    100010: Marine001LArmDigit11
+    100012: Marine001LArmDigit12
+    100014: Marine001LArmDigit13
+    100016: Marine001LArmDigit21
+    100018: Marine001LArmDigit22
+    100020: Marine001LArmDigit23
+    100022: Marine001LArmDigit31
+    100024: Marine001LArmDigit32
+    100026: Marine001LArmDigit33
+    100028: Marine001LArmDigit41
+    100030: Marine001LArmDigit42
+    100032: Marine001LArmDigit43
+    100034: Marine001LArmForearm1
+    100036: Marine001LArmForearm2
+    100038: Marine001LArmForearm3
+    100040: Marine001LArmPalm
+    100042: Marine001LArmUpperarm
+    100044: Marine001LLegAnkle
+    100046: Marine001LLegCalf
+    100048: Marine001LLegPlatform
+    100050: Marine001LLegThigh
+    100052: Marine001LLegToe
+    100054: Marine001Neck1
+    100056: Marine001Neck2
+    100058: Marine001Pelvis
+    100060: Marine001RAnkle
+    100062: Marine001RCalf
+    100064: Marine001RCollarbone
+    100066: Marine001RDigit01
+    100068: Marine001RDigit02
+    100070: Marine001RDigit03
+    100072: Marine001RDigit11
+    100074: Marine001RDigit12
+    100076: Marine001RDigit13
+    100078: Marine001RDigit21
+    100080: Marine001RDigit22
+    100082: Marine001RDigit23
+    100084: Marine001RDigit31
+    100086: Marine001RDigit32
+    100088: Marine001RDigit33
+    100090: Marine001RDigit41
+    100092: Marine001RDigit42
+    100094: Marine001RDigit43
+    100096: Marine001RForearm1
+    100098: Marine001RForearm2
+    100100: Marine001RForearm3
+    100102: Marine001Ribcage
+    100104: Marine001RPalm
+    100106: Marine001RPlatform
+    100108: Marine001RThigh
+    100110: Marine001RToe
+    100112: Marine001RUpperarm
+    100114: Marine001Spine1
+    100116: Marine001Spine2
+    100118: Marine001Spine3
+    100120: //RootNode
+    400000: Marine001Head
+    400002: Marine001LArmCollarbone
+    400004: Marine001LArmDigit01
+    400006: Marine001LArmDigit02
+    400008: Marine001LArmDigit03
+    400010: Marine001LArmDigit11
+    400012: Marine001LArmDigit12
+    400014: Marine001LArmDigit13
+    400016: Marine001LArmDigit21
+    400018: Marine001LArmDigit22
+    400020: Marine001LArmDigit23
+    400022: Marine001LArmDigit31
+    400024: Marine001LArmDigit32
+    400026: Marine001LArmDigit33
+    400028: Marine001LArmDigit41
+    400030: Marine001LArmDigit42
+    400032: Marine001LArmDigit43
+    400034: Marine001LArmForearm1
+    400036: Marine001LArmForearm2
+    400038: Marine001LArmForearm3
+    400040: Marine001LArmPalm
+    400042: Marine001LArmUpperarm
+    400044: Marine001LLegAnkle
+    400046: Marine001LLegCalf
+    400048: Marine001LLegPlatform
+    400050: Marine001LLegThigh
+    400052: Marine001LLegToe
+    400054: Marine001Neck1
+    400056: Marine001Neck2
+    400058: Marine001Pelvis
+    400060: Marine001RAnkle
+    400062: Marine001RCalf
+    400064: Marine001RCollarbone
+    400066: Marine001RDigit01
+    400068: Marine001RDigit02
+    400070: Marine001RDigit03
+    400072: Marine001RDigit11
+    400074: Marine001RDigit12
+    400076: Marine001RDigit13
+    400078: Marine001RDigit21
+    400080: Marine001RDigit22
+    400082: Marine001RDigit23
+    400084: Marine001RDigit31
+    400086: Marine001RDigit32
+    400088: Marine001RDigit33
+    400090: Marine001RDigit41
+    400092: Marine001RDigit42
+    400094: Marine001RDigit43
+    400096: Marine001RForearm1
+    400098: Marine001RForearm2
+    400100: Marine001RForearm3
+    400102: Marine001Ribcage
+    400104: Marine001RPalm
+    400106: Marine001RPlatform
+    400108: Marine001RThigh
+    400110: Marine001RToe
+    400112: Marine001RUpperarm
+    400114: Marine001Spine1
+    400116: Marine001Spine2
+    400118: Marine001Spine3
+    400120: //RootNode
+    7400000: EnergyBomb
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: EnergyBomb
+      takeName: EnergyBomb
+      firstFrame: 1800
+      lastFrame: 1824
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

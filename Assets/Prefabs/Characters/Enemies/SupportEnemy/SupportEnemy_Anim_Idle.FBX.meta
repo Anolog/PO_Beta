@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: fc7d0ad81120cc9468410c71aae99f25
+timeCreated: 1522091176
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CATRigBackLeftMainTesticle1
+    100002: CATRigBackLeftMainTesticle2
+    100004: CATRigBackLeftMainTesticle3
+    100006: CATRigBackLeftMainTesticle4
+    100008: CATRigBackLeftMainTesticle5
+    100010: CATRigBackLeftMainTesticle6
+    100012: CATRigBackRightMainTesticle1
+    100014: CATRigBackRightMainTesticle2
+    100016: CATRigBackRightMainTesticle3
+    100018: CATRigBackRightMainTesticle4
+    100020: CATRigBackRightMainTesticle5
+    100022: CATRigBackRightMainTesticle6
+    100024: CATRigBody
+    100026: CATRigFrontLeftMainTesticle1
+    100028: CATRigFrontLeftMainTesticle2
+    100030: CATRigFrontLeftMainTesticle3
+    100032: CATRigFrontLeftMainTesticle4
+    100034: CATRigFrontLeftMainTesticle5
+    100036: CATRigFrontLeftMainTesticle6
+    100038: CATRigFrontLeftMainTesticle7
+    100040: CATRigFrontRightMainTesticle1
+    100042: CATRigFrontRightMainTesticle2
+    100044: CATRigFrontRightMainTesticle3
+    100046: CATRigFrontRightMainTesticle4
+    100048: CATRigFrontRightMainTesticle5
+    100050: CATRigFrontRightMainTesticle6
+    100052: CATRigFrontRightMainTesticle7
+    100054: CATRigLeftHandsticle1
+    100056: CATRigLeftHandsticle2
+    100058: CATRigLeftHandsticle3
+    100060: CATRigLeftHandsticle4
+    100062: CATRigLeftHandsticle5
+    100064: CATRigLeftMiniTesticle1
+    100066: CATRigLeftMiniTesticle2
+    100068: CATRigLeftMiniTesticle3
+    100070: CATRigLeftMiniTesticle4
+    100072: CATRigMainTesticle1
+    100074: CATRigMainTesticle2
+    100076: CATRigMainTesticle3
+    100078: CATRigMainTesticle4
+    100080: CATRigMainTesticle5
+    100082: CATRigMainTesticle6
+    100084: CATRigMainTesticle7
+    100086: CATRigMainTesticle8
+    100088: CATRigRightHandsticle1
+    100090: CATRigRightHandsticle2
+    100092: CATRigRightHandsticle3
+    100094: CATRigRightHandsticle4
+    100096: CATRigRightHandsticle5
+    100098: CATRigRightMiniTesticle1
+    100100: CATRigRightMiniTesticle2
+    100102: CATRigRightMiniTesticle3
+    100104: CATRigRightMiniTesticle4
+    100106: SupportDude
+    100108: //RootNode
+    400000: CATRigBackLeftMainTesticle1
+    400002: CATRigBackLeftMainTesticle2
+    400004: CATRigBackLeftMainTesticle3
+    400006: CATRigBackLeftMainTesticle4
+    400008: CATRigBackLeftMainTesticle5
+    400010: CATRigBackLeftMainTesticle6
+    400012: CATRigBackRightMainTesticle1
+    400014: CATRigBackRightMainTesticle2
+    400016: CATRigBackRightMainTesticle3
+    400018: CATRigBackRightMainTesticle4
+    400020: CATRigBackRightMainTesticle5
+    400022: CATRigBackRightMainTesticle6
+    400024: CATRigBody
+    400026: CATRigFrontLeftMainTesticle1
+    400028: CATRigFrontLeftMainTesticle2
+    400030: CATRigFrontLeftMainTesticle3
+    400032: CATRigFrontLeftMainTesticle4
+    400034: CATRigFrontLeftMainTesticle5
+    400036: CATRigFrontLeftMainTesticle6
+    400038: CATRigFrontLeftMainTesticle7
+    400040: CATRigFrontRightMainTesticle1
+    400042: CATRigFrontRightMainTesticle2
+    400044: CATRigFrontRightMainTesticle3
+    400046: CATRigFrontRightMainTesticle4
+    400048: CATRigFrontRightMainTesticle5
+    400050: CATRigFrontRightMainTesticle6
+    400052: CATRigFrontRightMainTesticle7
+    400054: CATRigLeftHandsticle1
+    400056: CATRigLeftHandsticle2
+    400058: CATRigLeftHandsticle3
+    400060: CATRigLeftHandsticle4
+    400062: CATRigLeftHandsticle5
+    400064: CATRigLeftMiniTesticle1
+    400066: CATRigLeftMiniTesticle2
+    400068: CATRigLeftMiniTesticle3
+    400070: CATRigLeftMiniTesticle4
+    400072: CATRigMainTesticle1
+    400074: CATRigMainTesticle2
+    400076: CATRigMainTesticle3
+    400078: CATRigMainTesticle4
+    400080: CATRigMainTesticle5
+    400082: CATRigMainTesticle6
+    400084: CATRigMainTesticle7
+    400086: CATRigMainTesticle8
+    400088: CATRigRightHandsticle1
+    400090: CATRigRightHandsticle2
+    400092: CATRigRightHandsticle3
+    400094: CATRigRightHandsticle4
+    400096: CATRigRightHandsticle5
+    400098: CATRigRightMiniTesticle1
+    400100: CATRigRightMiniTesticle2
+    400102: CATRigRightMiniTesticle3
+    400104: CATRigRightMiniTesticle4
+    400106: SupportDude
+    400108: //RootNode
+    4300000: SupportDude
+    7400000: idle
+    9500000: //RootNode
+    13700000: SupportDude
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 35
+      lastFrame: 185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

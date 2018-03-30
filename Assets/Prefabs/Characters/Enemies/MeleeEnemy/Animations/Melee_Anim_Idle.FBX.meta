@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 53b83d35658046b44923abf0d307b418
+timeCreated: 1520956619
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: English Dragon
+    100002: English DragonHead
+    100004: English DragonHeadJawLower
+    100006: English DragonHeadJawUpper
+    100008: English DragonLeafBack
+    100010: English DragonLeafFrontL
+    100012: English DragonLeafFrontR
+    100014: English DragonLeafMiddleL
+    100016: English DragonLeafMiddleR
+    100018: English DragonLLeg1
+    100020: English DragonLLeg1 1
+    100022: English DragonLLeg2
+    100024: English DragonLLeg2 1
+    100026: English DragonLLeg3
+    100028: English DragonLLegAnkle
+    100030: English DragonLLegPlatform
+    100032: English DragonLLegPlatform 1
+    100034: English DragonPelvis
+    100036: English DragonRibcage
+    100038: English DragonRLeg1
+    100040: English DragonRLeg1 1
+    100042: English DragonRLeg2
+    100044: English DragonRLeg2 1
+    100046: English DragonRLeg3
+    100048: English DragonRLegAnkle
+    100050: English DragonRLegPlatform
+    100052: English DragonRLegPlatform 1
+    100054: English DragonSpine
+    100056: English DragonSpine1
+    100058: English DragonSpine2
+    100060: English DragonSpine3
+    100062: English DragonSpine4
+    100064: English DragonSpine5
+    100066: English DragonSpine6
+    100068: English DragonSpine7
+    100070: //RootNode
+    400000: English Dragon
+    400002: English DragonHead
+    400004: English DragonHeadJawLower
+    400006: English DragonHeadJawUpper
+    400008: English DragonLeafBack
+    400010: English DragonLeafFrontL
+    400012: English DragonLeafFrontR
+    400014: English DragonLeafMiddleL
+    400016: English DragonLeafMiddleR
+    400018: English DragonLLeg1
+    400020: English DragonLLeg1 1
+    400022: English DragonLLeg2
+    400024: English DragonLLeg2 1
+    400026: English DragonLLeg3
+    400028: English DragonLLegAnkle
+    400030: English DragonLLegPlatform
+    400032: English DragonLLegPlatform 1
+    400034: English DragonPelvis
+    400036: English DragonRibcage
+    400038: English DragonRLeg1
+    400040: English DragonRLeg1 1
+    400042: English DragonRLeg2
+    400044: English DragonRLeg2 1
+    400046: English DragonRLeg3
+    400048: English DragonRLegAnkle
+    400050: English DragonRLegPlatform
+    400052: English DragonRLegPlatform 1
+    400054: English DragonSpine
+    400056: English DragonSpine1
+    400058: English DragonSpine2
+    400060: English DragonSpine3
+    400062: English DragonSpine4
+    400064: English DragonSpine5
+    400066: English DragonSpine6
+    400068: English DragonSpine7
+    400070: //RootNode
+    7400000: MeleeEnemyModel76
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MeleeEnemyModel76
+      takeName: MeleeEnemyModel76
+      firstFrame: 10
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

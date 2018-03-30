@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 7ed21fbef79aee74bb9d9d18b96d70ab
+timeCreated: 1520539911
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: English Dragon
+    100002: English DragonHead
+    100004: English DragonHeadJawLower
+    100006: English DragonHeadJawUpper
+    100008: English DragonLeafBack
+    100010: English DragonLeafFrontL
+    100012: English DragonLeafFrontR
+    100014: English DragonLeafMiddleL
+    100016: English DragonLeafMiddleR
+    100018: English DragonLLeg1
+    100020: English DragonLLeg1 1
+    100022: English DragonLLeg2
+    100024: English DragonLLeg2 1
+    100026: English DragonLLeg3
+    100028: English DragonLLegAnkle
+    100030: English DragonLLegPlatform
+    100032: English DragonLLegPlatform 1
+    100034: English DragonPelvis
+    100036: English DragonRibcage
+    100038: English DragonRLeg1
+    100040: English DragonRLeg1 1
+    100042: English DragonRLeg2
+    100044: English DragonRLeg2 1
+    100046: English DragonRLeg3
+    100048: English DragonRLegAnkle
+    100050: English DragonRLegPlatform
+    100052: English DragonRLegPlatform 1
+    100054: English DragonSpine
+    100056: English DragonSpine1
+    100058: English DragonSpine2
+    100060: English DragonSpine3
+    100062: English DragonSpine4
+    100064: English DragonSpine5
+    100066: English DragonSpine6
+    100068: English DragonSpine7
+    100070: //RootNode
+    400000: English Dragon
+    400002: English DragonHead
+    400004: English DragonHeadJawLower
+    400006: English DragonHeadJawUpper
+    400008: English DragonLeafBack
+    400010: English DragonLeafFrontL
+    400012: English DragonLeafFrontR
+    400014: English DragonLeafMiddleL
+    400016: English DragonLeafMiddleR
+    400018: English DragonLLeg1
+    400020: English DragonLLeg1 1
+    400022: English DragonLLeg2
+    400024: English DragonLLeg2 1
+    400026: English DragonLLeg3
+    400028: English DragonLLegAnkle
+    400030: English DragonLLegPlatform
+    400032: English DragonLLegPlatform 1
+    400034: English DragonPelvis
+    400036: English DragonRibcage
+    400038: English DragonRLeg1
+    400040: English DragonRLeg1 1
+    400042: English DragonRLeg2
+    400044: English DragonRLeg2 1
+    400046: English DragonRLeg3
+    400048: English DragonRLegAnkle
+    400050: English DragonRLegPlatform
+    400052: English DragonRLegPlatform 1
+    400054: English DragonSpine
+    400056: English DragonSpine1
+    400058: English DragonSpine2
+    400060: English DragonSpine3
+    400062: English DragonSpine4
+    400064: English DragonSpine5
+    400066: English DragonSpine6
+    400068: English DragonSpine7
+    400070: //RootNode
+    2300000: English DragonHead
+    2300002: English DragonHeadJawLower
+    2300004: English DragonHeadJawUpper
+    2300006: English DragonLeafBack
+    2300008: English DragonLeafFrontL
+    2300010: English DragonLeafFrontR
+    2300012: English DragonLeafMiddleL
+    2300014: English DragonLeafMiddleR
+    2300016: English DragonLLeg1
+    2300018: English DragonLLeg1 1
+    2300020: English DragonLLeg2
+    2300022: English DragonLLeg2 1
+    2300024: English DragonLLeg3
+    2300026: English DragonLLegAnkle
+    2300028: English DragonPelvis
+    2300030: English DragonRibcage
+    2300032: English DragonRLeg1
+    2300034: English DragonRLeg1 1
+    2300036: English DragonRLeg2
+    2300038: English DragonRLeg2 1
+    2300040: English DragonRLeg3
+    2300042: English DragonRLegAnkle
+    2300044: English DragonSpine
+    2300046: English DragonSpine1
+    2300048: English DragonSpine2
+    2300050: English DragonSpine3
+    2300052: English DragonSpine4
+    2300054: English DragonSpine5
+    2300056: English DragonSpine6
+    2300058: English DragonSpine7
+    3300000: English DragonHead
+    3300002: English DragonHeadJawLower
+    3300004: English DragonHeadJawUpper
+    3300006: English DragonLeafBack
+    3300008: English DragonLeafFrontL
+    3300010: English DragonLeafFrontR
+    3300012: English DragonLeafMiddleL
+    3300014: English DragonLeafMiddleR
+    3300016: English DragonLLeg1
+    3300018: English DragonLLeg1 1
+    3300020: English DragonLLeg2
+    3300022: English DragonLLeg2 1
+    3300024: English DragonLLeg3
+    3300026: English DragonLLegAnkle
+    3300028: English DragonPelvis
+    3300030: English DragonRibcage
+    3300032: English DragonRLeg1
+    3300034: English DragonRLeg1 1
+    3300036: English DragonRLeg2
+    3300038: English DragonRLeg2 1
+    3300040: English DragonRLeg3
+    3300042: English DragonRLegAnkle
+    3300044: English DragonSpine
+    3300046: English DragonSpine1
+    3300048: English DragonSpine2
+    3300050: English DragonSpine3
+    3300052: English DragonSpine4
+    3300054: English DragonSpine5
+    3300056: English DragonSpine6
+    3300058: English DragonSpine7
+    4300000: English DragonPelvis
+    4300002: English DragonLLeg1
+    4300004: English DragonLLeg2
+    4300006: English DragonLLeg3
+    4300008: English DragonSpine
+    4300010: English DragonRibcage
+    4300012: English DragonSpine1
+    4300014: English DragonSpine2
+    4300016: English DragonSpine3
+    4300018: English DragonSpine4
+    4300020: English DragonSpine5
+    4300022: English DragonSpine6
+    4300024: English DragonSpine7
+    4300026: English DragonHead
+    4300028: English DragonHeadJawUpper
+    4300030: English DragonHeadJawLower
+    4300032: English DragonLLeg1
+    4300034: English DragonLLeg2
+    4300036: English DragonLLegAnkle
+    4300038: English DragonRLeg1
+    4300040: English DragonRLeg2
+    4300042: English DragonRLegAnkle
+    4300044: English DragonLeafFrontL
+    4300046: English DragonLeafFrontR
+    4300048: English DragonLeafMiddleL
+    4300050: English DragonLeafMiddleR
+    4300052: English DragonRLeg1
+    4300054: English DragonRLeg2
+    4300056: English DragonRLeg3
+    4300058: English DragonLeafBack
+    7400000: MeleeEnemyModel75
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: a60a5be8fe5d9084b8a2748172cef8fa
+timeCreated: 1520280375
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: English DragonHead
+    100002: English DragonHeadJawLower
+    100004: English DragonHeadJawUpper
+    100006: English DragonLeafBack
+    100008: English DragonLeafFrontL
+    100010: English DragonLeafFrontR
+    100012: English DragonLeafMiddleL
+    100014: English DragonLeafMiddleR
+    100016: English DragonLLeg1
+    100018: English DragonLLeg1 1
+    100020: English DragonLLeg2
+    100022: English DragonLLeg2 1
+    100024: English DragonLLeg3
+    100026: English DragonLLegAnkle
+    100028: English DragonPelvis
+    100030: English DragonRibcage
+    100032: English DragonRLeg1
+    100034: English DragonRLeg1 1
+    100036: English DragonRLeg2
+    100038: English DragonRLeg2 1
+    100040: English DragonRLeg3
+    100042: English DragonRLegAnkle
+    100044: English DragonSpine
+    100046: English DragonSpine1
+    100048: English DragonSpine2
+    100050: English DragonSpine3
+    100052: English DragonSpine4
+    100054: English DragonSpine5
+    100056: English DragonSpine6
+    100058: English DragonSpine7
+    100060: //RootNode
+    100062: Mesh_MeleeBody
+    400000: English DragonHead
+    400002: English DragonHeadJawLower
+    400004: English DragonHeadJawUpper
+    400006: English DragonLeafBack
+    400008: English DragonLeafFrontL
+    400010: English DragonLeafFrontR
+    400012: English DragonLeafMiddleL
+    400014: English DragonLeafMiddleR
+    400016: English DragonLLeg1
+    400018: English DragonLLeg1 1
+    400020: English DragonLLeg2
+    400022: English DragonLLeg2 1
+    400024: English DragonLLeg3
+    400026: English DragonLLegAnkle
+    400028: English DragonPelvis
+    400030: English DragonRibcage
+    400032: English DragonRLeg1
+    400034: English DragonRLeg1 1
+    400036: English DragonRLeg2
+    400038: English DragonRLeg2 1
+    400040: English DragonRLeg3
+    400042: English DragonRLegAnkle
+    400044: English DragonSpine
+    400046: English DragonSpine1
+    400048: English DragonSpine2
+    400050: English DragonSpine3
+    400052: English DragonSpine4
+    400054: English DragonSpine5
+    400056: English DragonSpine6
+    400058: English DragonSpine7
+    400060: //RootNode
+    400062: Mesh_MeleeBody
+    4300000: Mesh_MeleeBody
+    9500000: //RootNode
+    13700000: Mesh_MeleeBody
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

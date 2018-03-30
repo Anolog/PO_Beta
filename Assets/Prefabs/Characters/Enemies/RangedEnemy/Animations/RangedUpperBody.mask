@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RangedUpperBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigLArmCollarbone
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigLArmCollarbone/CATRigLArm1
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigLArmCollarbone/CATRigLArm1/CATRigLArmPalm
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigNeck1
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigNeck1/CATRigNeck2
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigNeck1/CATRigNeck2/CATRigHead
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw1
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw1/CATRigClaw1Bone001
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw1/CATRigClaw1Bone001/CATRigClaw1Bone002
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw1/CATRigClaw1Bone001/CATRigClaw1Bone002/CATRigClaw1Bone003
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw2
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw2/CATRigClaw2Bone001
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw2/CATRigClaw2Bone001/CATRigClaw2Bone002
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw2/CATRigClaw2Bone001/CATRigClaw2Bone002/CATRigClaw2Bone003
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw3
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw3/CATRigClaw3Bone001
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw3/CATRigClaw3Bone001/CATRigClaw3Bone002
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigClaw3/CATRigClaw3Bone001/CATRigClaw3Bone002/CATRigClaw3Bone003
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigSpine1
+      1
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigSpine1
+      1/CATRigSpine1 2
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigSpine1/CATRigSpine2/CATRigCATRigBoobs/CATRigSpine1
+      1/CATRigSpine1 2/CATRigHub003
+    m_Weight: 1
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail1_1
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail1_1/CATRigTail1_2
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail2_1
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail2_1/CATRigTail2_2
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail3_1
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail3_1/CATRigTail3_2
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail4_1
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail4_1/CATRigTail4_2
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail5_1
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail5_1/CATRigTail5_2
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail6_1
+    m_Weight: 0
+  - m_Path: CATRigBaseRockRig/CATRigRockRig/CATRigTail6_1/CATRigTail6_2
+    m_Weight: 0
+  - m_Path: Helper_Rock
+    m_Weight: 1
+  - m_Path: Mesh_Effect
+    m_Weight: 1
+  - m_Path: Mesh_Projectile
+    m_Weight: 1
+  - m_Path: Mesh_RockThrower
+    m_Weight: 1

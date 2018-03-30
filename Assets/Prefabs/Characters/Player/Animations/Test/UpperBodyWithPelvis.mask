@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UpperBodyWithPelvis
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1
+  - m_Path: Marine001Pelvis
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001LLegThigh
+    m_Weight: 0
+  - m_Path: Marine001Pelvis/Marine001LLegThigh/Marine001LLegCalf
+    m_Weight: 0
+  - m_Path: Marine001Pelvis/Marine001LLegThigh/Marine001LLegCalf/Marine001LLegAnkle
+    m_Weight: 0
+  - m_Path: Marine001Pelvis/Marine001LLegThigh/Marine001LLegCalf/Marine001LLegAnkle/Marine001LLegToe
+    m_Weight: 0
+  - m_Path: Marine001Pelvis/Marine001RThigh
+    m_Weight: 0
+  - m_Path: Marine001Pelvis/Marine001RThigh/Marine001RCalf
+    m_Weight: 0
+  - m_Path: Marine001Pelvis/Marine001RThigh/Marine001RCalf/Marine001RAnkle
+    m_Weight: 0
+  - m_Path: Marine001Pelvis/Marine001RThigh/Marine001RCalf/Marine001RAnkle/Marine001RToe
+    m_Weight: 0
+  - m_Path: Marine001Pelvis/Marine001Spine1
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/HelperBow
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/HelperShield
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit01
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit01/Marine001LArmDigit02
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit01/Marine001LArmDigit02/Marine001LArmDigit03
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit11
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit11/Marine001LArmDigit12
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit11/Marine001LArmDigit12/Marine001LArmDigit13
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit21
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit21/Marine001LArmDigit22
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit21/Marine001LArmDigit22/Marine001LArmDigit23
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit31
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit31/Marine001LArmDigit32
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit31/Marine001LArmDigit32/Marine001LArmDigit33
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit41
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit41/Marine001LArmDigit42
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001LArmCollarbone/Marine001LArmUpperarm/Marine001LArmForearm1/Marine001LArmForearm2/Marine001LArmForearm3/Marine001LArmPalm/Marine001LArmDigit41/Marine001LArmDigit42/Marine001LArmDigit43
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001Neck1
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001Neck1/Marine001Neck2
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001Neck1/Marine001Neck2/Marine001Head
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/HelperSword
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit01
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit01/Marine001RDigit02
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit01/Marine001RDigit02/Marine001RDigit03
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit11
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit11/Marine001RDigit12
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit11/Marine001RDigit12/Marine001RDigit13
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit21
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit21/Marine001RDigit22
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit21/Marine001RDigit22/Marine001RDigit23
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit31
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit31/Marine001RDigit32
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit31/Marine001RDigit32/Marine001RDigit33
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit41
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit41/Marine001RDigit42
+    m_Weight: 1
+  - m_Path: Marine001Pelvis/Marine001Spine1/Marine001Spine2/Marine001Spine3/Marine001Ribcage/Marine001RCollarbone/Marine001RUpperarm/Marine001RForearm1/Marine001RForearm2/Marine001RForearm3/Marine001RPalm/Marine001RDigit41/Marine001RDigit42/Marine001RDigit43
+    m_Weight: 1

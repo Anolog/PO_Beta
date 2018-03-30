@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 3f15666ddb7650a4a9dbc531ba9d023a
+timeCreated: 1522236182
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CATRigBaseRockRig
+    100002: CATRigCATRigBoobs
+    100004: CATRigClaw1
+    100006: CATRigClaw1Bone001
+    100008: CATRigClaw1Bone002
+    100010: CATRigClaw1Bone003
+    100012: CATRigClaw2
+    100014: CATRigClaw2Bone001
+    100016: CATRigClaw2Bone002
+    100018: CATRigClaw2Bone003
+    100020: CATRigClaw3
+    100022: CATRigClaw3Bone001
+    100024: CATRigClaw3Bone002
+    100026: CATRigClaw3Bone003
+    100028: CATRigHead
+    100030: CATRigHub003
+    100032: CATRigLArm1
+    100034: CATRigLArmCollarbone
+    100036: CATRigLArmPalm
+    100038: CATRigNeck1
+    100040: CATRigNeck2
+    100042: CATRigRArm1
+    100044: CATRigRArm2
+    100046: CATRigRArmCollarbone
+    100048: CATRigRArmPalm
+    100050: CATRigRockRig
+    100052: CATRigSpine1
+    100054: CATRigSpine1 1
+    100056: CATRigSpine1 2
+    100058: CATRigSpine2
+    100060: CATRigTail1_1
+    100062: CATRigTail1_2
+    100064: CATRigTail2_1
+    100066: CATRigTail2_2
+    100068: CATRigTail3_1
+    100070: CATRigTail3_2
+    100072: CATRigTail4_1
+    100074: CATRigTail4_2
+    100076: CATRigTail5_1
+    100078: CATRigTail5_2
+    100080: CATRigTail6_1
+    100082: CATRigTail6_2
+    100084: Helper_Rock
+    100086: //RootNode
+    400000: CATRigBaseRockRig
+    400002: CATRigCATRigBoobs
+    400004: CATRigClaw1
+    400006: CATRigClaw1Bone001
+    400008: CATRigClaw1Bone002
+    400010: CATRigClaw1Bone003
+    400012: CATRigClaw2
+    400014: CATRigClaw2Bone001
+    400016: CATRigClaw2Bone002
+    400018: CATRigClaw2Bone003
+    400020: CATRigClaw3
+    400022: CATRigClaw3Bone001
+    400024: CATRigClaw3Bone002
+    400026: CATRigClaw3Bone003
+    400028: CATRigHead
+    400030: CATRigHub003
+    400032: CATRigLArm1
+    400034: CATRigLArmCollarbone
+    400036: CATRigLArmPalm
+    400038: CATRigNeck1
+    400040: CATRigNeck2
+    400042: CATRigRArm1
+    400044: CATRigRArm2
+    400046: CATRigRArmCollarbone
+    400048: CATRigRArmPalm
+    400050: CATRigRockRig
+    400052: CATRigSpine1
+    400054: CATRigSpine1 1
+    400056: CATRigSpine1 2
+    400058: CATRigSpine2
+    400060: CATRigTail1_1
+    400062: CATRigTail1_2
+    400064: CATRigTail2_1
+    400066: CATRigTail2_2
+    400068: CATRigTail3_1
+    400070: CATRigTail3_2
+    400072: CATRigTail4_1
+    400074: CATRigTail4_2
+    400076: CATRigTail5_1
+    400078: CATRigTail5_2
+    400080: CATRigTail6_1
+    400082: CATRigTail6_2
+    400084: Helper_Rock
+    400086: //RootNode
+    7400000: RangedEnemy_Anim_Stun_Loop
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
